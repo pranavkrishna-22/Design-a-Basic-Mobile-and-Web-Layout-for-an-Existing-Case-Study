@@ -13,6 +13,9 @@ This experiment focuses on understanding responsive design principles by creatin
 To practice designing user interfaces that work seamlessly across mobile and desktop devices by applying responsive design techniques and usability principles to a real-world case study.
 
 ---
+Pdf Link:https://lms2.cse.saveetha.in/pluginfile.php/51763/assignsubmission_file/submission_files/106421/UI%20UX%20EXP%202.pdf?forcedownload=1
+
+https://lms2.cse.saveetha.in/pluginfile.php/51763/assignsubmission_file/submission_files/106421/ui%20ux%20exp%20wireframe.pdf?forcedownload=1
 
 ## Experiment Overview
 
